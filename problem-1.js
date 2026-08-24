@@ -68,3 +68,6 @@ const reverseNumber = (number) => {
 }
 
 console.log(reverseNumber(1234));
+
+
+// problem - 6
